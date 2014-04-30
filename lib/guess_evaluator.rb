@@ -1,3 +1,6 @@
+require_relative 'game'
+require_relative 'computer'
+
 class GuessEvaluator
 
   def initialize(secret_code)
